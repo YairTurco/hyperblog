@@ -16,5 +16,7 @@ El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi s
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
 - Creado para practica de Cherry-Pick
+- Me acaban de agregar dos cursos mas, HTML no llego mas!
+- Igual lo voy a lograr y me voy a dedicar a esto!
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
